@@ -1,2 +1,2 @@
-# Sudoku-Solver
-Solves the sudoku provided by the user using back-tracking
+# sudoku
+A fun collaborative project to implement and extend the classic game of Sudoku. 
